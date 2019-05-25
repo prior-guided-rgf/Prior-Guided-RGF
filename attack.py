@@ -41,7 +41,7 @@ tf.flags.DEFINE_string(
     'input_dir', '', 'Input directory with images.')
 
 tf.flags.DEFINE_string(
-    'output_dir', '', 'Output file to save labels.')
+    'output_dir', '', 'Output directory to save results.')
 
 tf.flags.DEFINE_integer(
     'samples_per_draw', 50, 'Number of samples to estimate the gradient.')
