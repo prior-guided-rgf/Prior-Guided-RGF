@@ -1,6 +1,6 @@
 # Improving Black-box Adversarial Attacks with a Transfer-based Prior
 
-Update: This repository is no longer maintained. Please refer to https://github.com/thu-ml/Prior-Guided-RGF for more code and further updates.
+**Update**: *This repository is no longer maintained. Please refer to* https://github.com/thu-ml/Prior-Guided-RGF *for more code and further updates.*
 
 This repository contains the code for reproducing the experimental results of attacking Inception-v3 model, of our submission: *Improving Black-box Adversarial Attacks with a Transfer-based Prior*.
 
